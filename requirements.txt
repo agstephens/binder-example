@@ -3,3 +3,4 @@ boto
 requests
 pandas
 pillow
+netcdf4
